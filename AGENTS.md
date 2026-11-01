@@ -1,6 +1,6 @@
 # 작업 지침
 ## 파일 위치
-- 목표·성공 기준·담당자 확인: SPEC.md / 검증 결과: VERIFY.md / 결정: docs/adr/ / 용어: GLOSSARY.md / (필요 시) PLAN.md, HANDOFF.md
+- 목표·성공 기준·담당자 확인: SPEC.md / 검증 결과: VERIFY.md / 결정: docs/adr/ / 용어: GLOSSARY.md 
 ## 실행 명령
 - 제출 파일 생성: (미실행)
 - 전체 테스트: (미실행)
